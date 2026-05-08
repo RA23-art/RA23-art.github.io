@@ -1,0 +1,50 @@
+<html> 
+    <head> 
+        <link rel="stylesheet" href="https://use.typekit.net/pgo7lxf.css">
+        <link rel="stylesheet" href="https://use.typekit.net/pgo7lxf.css">
+
+        <link rel="stylesheet" href="style.css">
+    </head>
+    
+
+    <body>
+
+        <div class="tittle">The Hopeday Clock</div>
+
+
+        <div class="contents">
+            1.Images <br>
+            2. Sound and Music <br>
+            3. Greetings <br>
+        </div>
+
+       
+            <div class="text">The Bulletin of the Atomic Scientist introduced the Doomsday Clock in 1947, shortly after the atomic bombings of Hiroshima and Nagasaki. Originally, it focused on the threat of nuclear war during the Cold War between the United States and the Soviet Union. The clock was designed as a symbolic countdown to midnight, representing how close humanity was to global catastrophe. Its simple design, the clock hands moving toward midnight to communicate urgency and dread in a universally recognisable way. 
+            The clock was also a way for scientists to speak publicly about the dangers they felt responsible for creating. It reflected a moment when humanity realized it had the power to destroy itself. Over time, the clock expanded beyond nuclear threat and national problems. To a more global issue that might impact a global disaster include climate change, artificial intelligence, and other global risks. Today , it continues to signal how close the world is to destruction. Often measured in minutes or even seconds to midnight. 
+            </div>
+
+
+
+        <div class="text2">The doomsday clock assumes a single human-centered timeline of catastrophe. A singular clock with a single timeline from second to zero. But what if the clock included non-human timelines such as animals, ecosystems and ocean? In this perspective, midnight has already passed for many systems, such as coral reefs, which are experiencing irreversible damage due to climate change. 
+
+This challenge is the idea of universal countdown. Instead of one shared future, there are multiple, uneven timelines of crisis. Collapse is not a single moment but an ongoing process affecting different systems in different ways. This reframes catastrophe as something already happening, rather than something that lies ahead. 
+</div>
+
+        <div class="container">
+            <div class="item width25"> Left Side</div>
+            <div class="item width25"> right side</div>
+            <div class="item width25"> item</div>
+        </div>
+
+        <div class="container2">
+            <div class="item2 width25"> Left Side</div>
+            <div class="item2 width25"> right side</div>
+            <div class="item2 width25"> item</div>
+        </div>
+        
+  
+        <img src="Future Communication earth Image 1.jpg" alt="">
+
+
+    </body>
+</html>

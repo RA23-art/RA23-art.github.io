@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(123, 216, 127);
+
+    img {
+        width: 100%;
+        display: block;
+    }
+
+div.tittle {
+    font-family:"rockwell";
+    font-size: 150px;
+    line-height: 100px;
+    text-align: center;
+    letter-spacing: normal;
+}
+
+div.text2 {
+    color: darkgoldenrod;
+    margin-right: auto;
+}
+
+div.contents {
+    font-size: 21px;
+    line-height: 50px;
+    text-align: center;
+    border: 1px;
+    margin-top: 100px;}
+    
+div.text{
+    font-size: 15px;
+    margin-top: 50px;
+}
+
+
+
+div.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+div.item{
+    background-color: rgb(17, 102, 17);
+    font-size: 30px;
+    
+}
+
+div.item2{
+    background-color: rgb(221, 255, 126);
+    font-size: 40px;
+    
+}
+
+
+div.width25{
+   width:25%; 
+}
+
+div.width50 {
+    width:50%;
+}
+
+div.width75 {
+    width: 75%;
+}
+
